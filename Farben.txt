@@ -1,0 +1,14 @@
+
+farben =
+    { mossgreen = Element.rgb255 168 158 78
+    , pear = Element.rgb255 202 213 87
+    , mintcream = Element.rgb255 241 247 243
+    , pistachio = Element.rgb255 136 197 100
+    , white= Element.rgb255 255 255 255 }
+
+farbendunkel =
+    { amethyst = Element.rgb255 122 122 173
+    , finn = Element.rgb255 98 43 101
+    , federalblue = Element.rgb255 12 9 83
+    , berkeleyblue = Element.rgb255 26 55 92
+    , black= Element.rgb255 0 0 1 }
